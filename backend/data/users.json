@@ -1,0 +1,72 @@
+[
+  {
+    "email": "isha@gmail.com",
+    "passwordHash": "$2b$10$5lUqfx3UF41/8iedwBA2SuDv1mjFt.3uVETHdDK58.dSVapaCvpnK",
+    "name": "Isha Dubey",
+    "role": "admin",
+    "id": "vzq41mu",
+    "addresses": [],
+    "wishlist": []
+  },
+  {
+    "email": "isha@gmailcom",
+    "passwordHash": "$2b$10$5lUqfx3UF41/8iedwBA2SuDv1mjFt.3uVETHdDK58.dSVapaCvpnK",
+    "name": "Isha Dubey",
+    "role": "admin",
+    "id": "vzq41mu-legacy",
+    "addresses": [],
+    "wishlist": []
+  },
+  {
+    "email": "gauravbhoria07@gmail.com",
+    "passwordHash": "$2b$10$5lUqfx3UF41/8iedwBA2SuDv1mjFt.3uVETHdDK58.dSVapaCvpnK",
+    "name": "Gaurav Bhoria",
+    "role": "admin",
+    "id": "aw9027u",
+    "addresses": [
+      "#210 sec-29, Chandigarh"
+    ],
+    "phone": "",
+    "wishlist": []
+  },
+  {
+    "email": "admin_fix@omnimart.com",
+    "passwordHash": "$2b$10$5lUqfx3UF41/8iedwBA2SuDv1mjFt.3uVETHdDK58.dSVapaCvpnK",
+    "name": "Admin Fixer",
+    "role": "admin",
+    "id": "hoxg8i9",
+    "addresses": [],
+    "wishlist": []
+  },
+  {
+    "email": "nikitabhoria879@gmail.com",
+    "passwordHash": "$2b$10$5lUqfx3UF41/8iedwBA2SuDv1mjFt.3uVETHdDK58.dSVapaCvpnK",
+    "name": "admin",
+    "role": "admin",
+    "id": "98340ac6-c7dc-43ce-bb5a-babf1ca3097b",
+    "addresses": [],
+    "wishlist": []
+  },
+  {
+    "email": "disha@gmail.com",
+    "passwordHash": "$2b$10$5lUqfx3UF41/8iedwBA2SuDv1mjFt.3uVETHdDK58.dSVapaCvpnK",
+    "name": "disha",
+    "role": "user",
+    "id": "9f82c153-4ec9-4592-a74f-52a6fdbe7888",
+    "addresses": [
+      "aszdxfcgvyhujiokdfgvhjkl"
+    ],
+    "wishlist": []
+  },
+  {
+    "email": "gauravbhoria.07@gmail.com",
+    "passwordHash": "$2b$10$5lUqfx3UF41/8iedwBA2SuDv1mjFt.3uVETHdDK58.dSVapaCvpnK",
+    "name": "Gaurav Bhoria",
+    "role": "admin",
+    "id": "50940493-a02d-45c0-adcb-1f5a84a31269",
+    "addresses": [
+      "fghbjnkm"
+    ],
+    "wishlist": []
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "prod_1x9a",
+    "name": "Classic White Sneakers",
+    "description": "A pair of clean, white, versatile sneakers suitable for everyday wear.",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&q=80&w=800",
+    "category": "Fashion",
+    "stockQuantity": 50
+  },
+  {
+    "id": "prod_2b8c",
+    "name": "Minimalist Watch",
+    "description": "Elegant timepiece with a leather strap and clean dial design.",
+    "price": 125,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&q=80&w=800",
+    "category": "Fashion",
+    "stockQuantity": 43
+  },
+  {
+    "id": "prod_3c7d",
+    "name": "Noise-Cancelling Headphones",
+    "description": "Over-ear wireless headphones with active noise cancellation technology.",
+    "price": 299.99,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=800",
+    "category": "Electronics",
+    "stockQuantity": 48
+  },
+  {
+    "id": "prod_4d6e",
+    "name": "Leather Backpack",
+    "description": "Durable full-grain leather backpack perfect for daily commute or travel.",
+    "price": 145.5,
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&q=80&w=800",
+    "category": "Accessories",
+    "stockQuantity": 50
+  },
+  {
+    "id": "prod_5e5f",
+    "name": "Ceramic Coffee Mug",
+    "description": "Handcrafted ceramic mug with a unique speckled glaze finish.",
+    "price": 24,
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&q=80&w=800",
+    "category": "Home",
+    "stockQuantity": 49
+  },
+  {
+    "id": "prod_6f7g",
+    "name": "Smart Fitness Watch",
+    "description": "Track your health metrics and workouts with this advanced fitness smartwatch.",
+    "price": 199.99,
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&q=80&w=800",
+    "category": "Electronics",
+    "stockQuantity": 48
+  },
+  {
+    "id": "prod_7h8i",
+    "name": "Portable Bluetooth Speaker",
+    "description": "Compact, waterproof Bluetooth speaker with deep bass and 12-hour battery life.",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&q=80&w=800",
+    "category": "Electronics",
+    "stockQuantity": 49
+  },
+  {
+    "id": "prod_8i9j",
+    "name": "Polarized Sunglasses",
+    "description": "Stylish UV400 polarized sunglasses with lightweight frame.",
+    "price": 45,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&q=80&w=800",
+    "category": "Accessories",
+    "stockQuantity": 50
+  },
+  {
+    "id": "prod_9j0k",
+    "name": "Essential Oil Diffuser",
+    "description": "Aromatherapy diffuser with LED ambient lighting and quiet operation.",
+    "price": 34.5,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&q=80&w=800",
+    "category": "Home",
+    "stockQuantity": 49
+  },
+  {
+    "id": "prod_0k1l",
+    "name": "Mechanical Keyboard",
+    "description": "Tactile mechanical keyboard with customizable RGB backlighting.",
+    "price": 115,
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&q=80&w=800",
+    "category": "Electronics",
+    "stockQuantity": 48
+  },
+  {
+    "id": "prod_1l2m",
+    "name": "Ergonomic Office Chair",
+    "description": "Adjustable ergonomic chair with lumbar support and breathable mesh.",
+    "price": 249.99,
+    "image": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?auto=format&fit=crop&q=80&w=800",
+    "category": "Home",
+    "stockQuantity": 49
+  },
+  {
+    "id": "prod_2m3n",
+    "name": "4K Action Camera",
+    "description": "Waterproof action camera with 4K recording, stabilization, and dual screens.",
+    "price": 159.99,
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&q=80&w=800",
+    "category": "Electronics",
+    "stockQuantity": 50
+  },
+  {
+    "id": "prod_zhnvpgev4",
+    "name": "Vintage Leather Jacket",
+    "description": "Authentic 80s style vintage leather jacket with distressed finish.",
+    "price": 199.99,
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&q=80&w=800",
+    "category": "Fashion",
+    "stockQuantity": 51
+  },
+  {
+    "id": "prod_wg0s22v1p",
+    "name": "Ultra-Wide Gaming Monitor",
+    "description": "34-inch curved ultra-wide gaming monitor with 144Hz refresh rate.",
+    "price": 499.5,
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&q=80&w=800",
+    "category": "Electronics",
+    "stockQuantity": 20
+  },
+  {
+    "id": "prod_46lg3tbs6",
+    "name": "Handwoven Throw Blanket",
+    "description": "Cozy and warm handwoven cotton throw blanket for your living room.",
+    "price": 45,
+    "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&q=80&w=800",
+    "category": "Home",
+    "stockQuantity": 59
+  },
+  {
+    "id": "prod_99ram0nx2",
+    "name": "Stainless Steel Water Bottle",
+    "description": "Double-walled vacuum insulated water bottle keeps drinks cold for 24h.",
+    "price": 25.99,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&q=80&w=800",
+    "category": "Accessories",
+    "stockQuantity": 57
+  },
+  {
+    "id": "prod_4gbr9c7bh",
+    "name": "Wireless Charging Pad",
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices.",
+    "price": 29.99,
+    "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?auto=format&fit=crop&q=80&w=800",
+    "category": "Electronics",
+    "stockQuantity": 19
+  },
+  {
+    "id": "prod_6c1bygapq",
+    "name": "Canvas Tote Bag",
+    "description": "Eco-friendly minimalist canvas tote bag with reinforced handles.",
+    "price": 15,
+    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&q=80&w=800",
+    "category": "Fashion",
+    "stockQuantity": 19
+  },
+  {
+    "id": "prod_r9opyb8yu",
+    "name": "Scented Soy Candle",
+    "description": "Hand-poured soy candle with notes of lavender and cedarwood.",
+    "price": 22.5,
+    "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&q=80&w=800",
+    "category": "Home",
+    "stockQuantity": 44
+  },
+  {
+    "id": "prod_xp20wincc",
+    "name": "Minimalist Desk Lamp",
+    "description": "Sleek aluminum desk lamp with adjustable color temperature and brightness.",
+    "price": 65,
+    "image": "https://images.unsplash.com/photo-1534073828943-f801091bb18c?auto=format&fit=crop&q=80&w=800",
+    "category": "Home",
+    "stockQuantity": 27
+  },
+  {
+    "id": "prod_ueycxl8ub",
+    "name": "Bluetooth Earbuds",
+    "description": "True wireless earbuds with active noise cancellation and compact charging case.",
+    "price": 129.99,
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&q=80&w=800",
+    "category": "Electronics",
+    "stockQuantity": 20
+  },
+  {
+    "id": "prod_2keemrezy",
+    "name": "Classic Aviator Sunglasses",
+    "description": "Timeless aviator sunglasses with polarized lenses and metal frame.",
+    "price": 55,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&q=80&w=800",
+    "category": "Accessories",
+    "stockQuantity": 56
+  },
+  {
+    "id": "prod_7v4hn08qy",
+    "name": "Denim Trucker Jacket",
+    "description": "Classic blue denim trucker jacket, perfect for layering in any season.",
+    "price": 85,
+    "image": "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?auto=format&fit=crop&q=80&w=800",
+    "category": "Fashion",
+    "stockQuantity": 41
+  },
+  {
+    "id": "prod_asdjagnt0",
+    "name": "Smart Home Hub",
+    "description": "Control all your smart devices from one centralized voice-activated hub.",
+    "price": 149.99,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ffcbc126?auto=format&fit=crop&q=80&w=800",
+    "category": "Electronics",
+    "stockQuantity": 53
+  },
+  {
+    "id": "prod_w8urjfv1t",
+    "name": "Ceramic Planter Pot",
+    "description": "Modern geometric ceramic planter pot, ideal for indoor succulents.",
+    "price": 32,
+    "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&q=80&w=800",
+    "category": "Home",
+    "stockQuantity": 52
+  },
+  {
+    "id": "prod_n73o6y9qe",
+    "name": "Leather Apple Watch Band",
+    "description": "Premium genuine leather replacement band for Apple Watch.",
+    "price": 45,
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&q=80&w=800",
+    "category": "Accessories",
+    "stockQuantity": 49
+  },
+  {
+    "id": "prod_8xhld2ps1",
+    "name": "Mechanical Gaming Keyboard",
+    "description": "Tenkeyless mechanical keyboard with Cherry MX switches and RGB lighting.",
+    "price": 119.99,
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&q=80&w=800",
+    "category": "Electronics",
+    "stockQuantity": 22
+  },
+  {
+    "id": "prod_iuit50v3f",
+    "name": "Linen Button-Up Shirt",
+    "description": "Breathable and lightweight linen shirt for warm summer days.",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&q=80&w=800",
+    "category": "Fashion",
+    "stockQuantity": 27
+  },
+  {
+    "id": "prod_0uak8cufe",
+    "name": "French Press Coffee Maker",
+    "description": "Classic glass and stainless steel French press for the perfect morning brew.",
+    "price": 35,
+    "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&q=80&w=800",
+    "category": "Home",
+    "stockQuantity": 41
+  },
+  {
+    "id": "prod_1czgi7owq",
+    "name": "Travel Duffel Bag",
+    "description": "Spacious and water-resistant canvas duffel bag, perfect for weekend getaways.",
+    "price": 75,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&q=80&w=800",
+    "category": "Accessories",
+    "stockQuantity": 37
+  }
+]
